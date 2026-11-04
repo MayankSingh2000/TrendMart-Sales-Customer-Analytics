@@ -144,6 +144,9 @@ Performed business-focused analysis across multiple dimensions:
 **Problem:** Electronics experienced a significant decline in profitability during 2024.
 ![image alt](https://github.com/MayankSingh2000/TrendMart-Sales-Customer-Analytics/blob/main/visualizations/03_profit_margin_by_category.png?raw=true)
 
+![image alt](https://github.com/MayankSingh2000/TrendMart-Sales-Customer-Analytics/blob/main/visualizations/02_average_profit_margin_by_category.png?raw=true)
+
+
 | Year | Profit Margin |
 |---|---:|
 | 2022 | 43.4% |
