@@ -172,6 +172,7 @@ Approximately **$34,820 in potential lost profit** during 2024, based on the dif
 ### 2. Clothing Returns from Social Media Marketing
 
 **Problem:** Clothing orders acquired through Social Media showed an unusually high return rate.
+![image alt](https://github.com/MayankSingh2000/TrendMart-Sales-Customer-Analytics/blob/main/visualizations/05_return_rate_by_category_and_marketing_channel.png?raw=true)
 
 | Metric | Return Rate |
 |---|---:|
@@ -195,6 +196,7 @@ Approximately **$34,820 in potential lost profit** during 2024, based on the dif
 ### 3. Overall Revenue & Seasonality Analysis
 
 **Problem:** Revenue did not demonstrate consistent year-over-year growth.
+![image alt](https://github.com/MayankSingh2000/TrendMart-Sales-Customer-Analytics/blob/main/visualizations/01_monthly_revenue_trend.png?raw=true)
 
 | Year | Net Revenue | YoY Growth |
 |---|---:|---:|
@@ -214,6 +216,7 @@ Approximately **$34,820 in potential lost profit** during 2024, based on the dif
 - Monitor monthly revenue and customer purchasing patterns to identify growth opportunities.
 
 ### 4. Regional Revenue Analysis
+![image alt](https://github.com/MayankSingh2000/TrendMart-Sales-Customer-Analytics/blob/main/visualizations/08_net_revenue_by_region_and_year.png?raw=true)
 
 **Key findings:**
 - West and South were the largest revenue-contributing regions, together accounting for approximately 76% of total revenue.
@@ -228,6 +231,7 @@ Approximately **$34,820 in potential lost profit** during 2024, based on the dif
 - Evaluate growth opportunities in the Northeast.
 
 ### 5. Category & Regional Profitability
+![image alt](https://github.com/MayankSingh2000/TrendMart-Sales-Customer-Analytics/blob/main/visualizations/04_net_profit_margin_by_category_and_region.png?raw=true)
 
 **Key findings:**
 - All seven product categories remained net-profitable after adjusting for returned and cancelled orders.
@@ -244,6 +248,7 @@ Approximately **$34,820 in potential lost profit** during 2024, based on the dif
 ### 6. Discount vs Profitability Analysis
 
 **Problem:** Higher discounts consistently reduced profitability without evidence of increasing average order value.
+![image alt](https://github.com/MayankSingh2000/TrendMart-Sales-Customer-Analytics/blob/main/visualizations/09_discount_vs_profit_margin.png?raw=true)
 
 | Discount | Average Revenue | Average Profit Margin |
 |---|---:|---:|
@@ -268,6 +273,7 @@ Approximately **$34,820 in potential lost profit** during 2024, based on the dif
 ### 7. Customer Segment Analysis
 
 Compared purchasing behavior across Consumer, Corporate, and Home Office customers.
+![image alt](https://github.com/MayankSingh2000/TrendMart-Sales-Customer-Analytics/blob/main/visualizations/07_aov_opc_noc_by_consumer_corporate_home_office.png?raw=true)
 
 | Customer Segment | Customers | Average Order Value | Orders per Customer |
 |---|---:|---:|---:|
@@ -286,6 +292,7 @@ Compared purchasing behavior across Consumer, Corporate, and Home Office custome
 - Use product category, acquisition channel, and purchasing timing to create more meaningful customer-targeting strategies.
 
 ### 8. Customer Satisfaction & Return Analysis
+![image alt](https://github.com/MayankSingh2000/TrendMart-Sales-Customer-Analytics/blob/main/visualizations/10_review_rating_vs_return_rate.png?raw=true)
 
 **Key findings:**
 - Average review ratings across all categories ranged between 3.86 and 3.96.
@@ -369,11 +376,20 @@ It includes information about:
 - Customer review ratings
 - Geographic information
 
-*Note: The original raw dataset is not included in this repository unless separately added. Ensure you have permission to distribute the dataset before uploading it publicly.*
-
 ---
 
 ## 👨‍💻 Author
+
+**Mayank Singh
+Aspiring Data Analyst | SQL | Power BI | Excel | Python**
+
+Passionate about transforming raw data into meaningful insights through data cleaning, exploratory data analysis, visualization, and business reporting.
+
+Currently seeking entry-level Data Analyst opportunities where I can apply my analytical and technical skills to solve real-world business problems.
+
+GitHub: https://github.com/MayankSingh2000
+
+LinkedIn: www.linkedin.com/in/mayank-singh-aaa112135
 
 **Data Analytics Portfolio Project**
 
