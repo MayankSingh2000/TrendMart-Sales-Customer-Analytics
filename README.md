@@ -380,7 +380,7 @@ It includes information about:
 
 ## 👨‍💻 Author
 
-**Mayank Singh|
+**Mayank Singh |
 Aspiring Data Analyst | SQL | Power BI | Excel | Python**
 
 Passionate about transforming raw data into meaningful insights through data cleaning, exploratory data analysis, visualization, and business reporting.
