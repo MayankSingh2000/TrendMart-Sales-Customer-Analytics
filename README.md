@@ -142,6 +142,7 @@ Performed business-focused analysis across multiple dimensions:
 ### 1. Electronics Profit Margin Decline
 
 **Problem:** Electronics experienced a significant decline in profitability during 2024.
+![image alt](?raw=true)
 
 | Year | Profit Margin |
 |---|---:|
